@@ -1,6 +1,6 @@
 
 # ✨ Mohamed Yehia  <a href="https://www.linkedin.com/in/mohamed-yehia-578348bb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-**` Software Engineer Engineer `**
+**` Software Engineer `**
 
 
 <!-- ----------- HEAD SECTION ------------ -->
